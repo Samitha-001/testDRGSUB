@@ -13,9 +13,9 @@
     <module>testDRGSUBCompositeExporter</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/username/repository.git</connection>
-    <developerConnection>scm:git:https://github.com/username/repository.git</developerConnection>
-    <url>https://github.com/username/repository.git</url>
+    <connection>scm:git:https://github.com/Samitha-001/testDRGSUB.git</connection>
+    <developerConnection>scm:git:https://github.com/Samitha-001/testDRGSUB.git</developerConnection>
+    <url>https://github.com/Samitha-001/testDRGSUB.git</url>
   </scm>
   <distributionManagement>
     <repository>
